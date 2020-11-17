@@ -1,3 +1,3 @@
-# Prática Prévia - MNIST e Google Colab
-Após efetuar as configurações iniciais do Google Colab, execute o código em anexo e observe o comportamento do algoritmo. 
-#### Prof. Felipe M. Assuncao
+# Image classification with CNN
+In this project, I make a classification using Convolutional Neural Networks for digit classification (Mnist Dataset)
+
